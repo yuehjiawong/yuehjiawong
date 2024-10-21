@@ -17,7 +17,7 @@
 
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yuehjiawong&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="yuehjiawong's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuehjiawong&theme=tokyonight&hide_border=true" alt="yuehjiawong's Streak" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=yuehjiawong&theme=transparent&show_icons=true&hide_border=true&count_private=true" alt="yuehjiawong's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuehjiawong&theme=transparent&hide_border=true" alt="yuehjiawong's Streak" height="165">
   </p>
 </div>
